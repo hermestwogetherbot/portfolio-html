@@ -2,7 +2,9 @@
 
 ## Visão Geral
 
-Desenvolvedor Full Stack com experiência em projetos enterprise, mobile e SaaS, atuando em ambientes complexos com alta escalabilidade. Especializado em arquiteturas distribuídas, integrações com serviços externos (AWS, Microsoft Teams) e desenvolvimento de sistemas críticos.
+Desenvolvedor Full Stack com mais de 5 anos de experiência em design, desenvolvimento e deploy de soluções robustas. No **SoftExpert**, atuei no desenvolvimento de funcionalidades críticas como o sistema de gamificação. Como **co-fundador da JL Software**, lideri o desenvolvimento completo de aplicações mobile e web, incluindo uma plataforma de recomendação de jogos com engine de IA própria e um crawler de alta performance.
+
+Apaixonado por PHP, Node.js e React, construo produtos escaláveis e resolvo problemas complexos.
 
 ---
 
@@ -49,12 +51,14 @@ Aplicativo mobile para gerenciamento de eventos esportivos (futebol) com sistema
 - Sistema de recorrência de eventos (premium)
 - Build de APK e iOS produção
 
-### 4. SoftExpert Excellence Suite (Senior Developer)
-**Stack:** Java, PHP, React, AWS, Microsoft Teams, GitLab CI/CD
+### 4. SoftExpert Excellence Suite (Software Engineer)
+**Stack:** PHP, React, PostgreSQL, SQL Server, Oracle DB, Java, Node.js
 
-Atuação em projetos críticos do ecossistema SoftExpert com foco em regras de negócio, gamificação e integrações.
+Atuação no desenvolvimento de funcionalidades críticas do ecossistema SoftExpert.
 
 **Principais conquistas:**
+- Liderança na implementação de um recurso de revisão major impactante para um componente core do **SoftExpert Suite**
+- Engenharia da lógica de negócio para um novo componente de gamificação, integrando-se com múltiplos módulos do sistema
 - **SE Business Rule Manager:** Desenvolvimento completo do módulo de regras de negócio com API RESTful
 - **Sistema de Filas (SQS):** Implementação completa com FIFO Queues, múltiplas prioridades e deduplicação
 - **Sistema de Agendamento:** Engine completa com Quartz Scheduler, cron expressions e recuperação de jobs
@@ -65,6 +69,17 @@ Atuação em projetos críticos do ecossistema SoftExpert com foco em regras de 
 - **Sistema de AutoSave:** Hook React com debouncing e backend PHP
 - **Sistema de Artigos:** Tela completa com autoSave, rich text, revisões e multi-idioma
 - **CI/CD Pipeline:** Pipeline GitLab CI com 13 stages, testes automatizados e deploy
+
+### 5. JL Software (Co-founder & Lead Developer)
+**Stack:** Node.js, React, React Native, MongoDB
+
+Startup fundada do zero com foco em desenvolvimento full-cycle de aplicações.
+
+**Principais conquistas:**
+- Co-fundação e liderança de desenvolvimento de duas aplicações completas
+- **Plataforma de recomendação de jogos:** Arquitetura completa incluindo engine de IA customizada e crawler de alta performance
+- **Aplicativo de eventos esportivos:** Sistema de organização de jogos com convites e gestão de participantes
+- Tech Stack: Node.js, React, React Native, MongoDB
 
 ---
 
@@ -123,7 +138,8 @@ Atuação em projetos críticos do ecossistema SoftExpert com foco em regras de 
 **Jean Carlos Gomes**  
 Desenvolvedor Full Stack | Remote  
 📧 jgomes@softexpert.com  
-🔗 [LinkedIn](https://linkedin.com/in/jean-carlos-gomes)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jean-c-gomes-design)  
+🔗 [GitHub](https://github.com/JeanCDev)  
 📍 Brazil
 
 *"Desenvolvendo soluções inovadoras que transformam negócios através da tecnologia"*
