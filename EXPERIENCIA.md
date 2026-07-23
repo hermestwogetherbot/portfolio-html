@@ -71,15 +71,28 @@ Atuação no desenvolvimento de funcionalidades críticas do ecossistema SoftExp
 - **CI/CD Pipeline:** Pipeline GitLab CI com 13 stages, testes automatizados e deploy
 
 ### 5. JL Software (Co-founder & Lead Developer)
-**Stack:** Node.js, React, React Native, MongoDB
+**Stack:** Node.js, React, React Native, MongoDB, Python, PostgreSQL
 
 Startup fundada do zero com foco em desenvolvimento full-cycle de aplicações.
 
 **Principais conquistas:**
-- Co-fundação e liderança de desenvolvimento de duas aplicações completas
-- **Plataforma de recomendação de jogos:** Arquitetura completa incluindo engine de IA customizada e crawler de alta performance
-- **Aplicativo de eventos esportivos:** Sistema de organização de jogos com convites e gestão de participantes
-- Tech Stack: Node.js, React, React Native, MongoDB
+- Co-fundação e liderança de desenvolvimento de múltiplas aplicações completas
+- **BRBox:** Plataforma de catálogo de jogos com sistema de recomendações por IA
+  - Aplicativo mobile React Native (0.68.2)
+  - Backend Node.js/TypeScript/Express com API RESTful
+  - Sistema de IA em Python com filtragem colaborativa (SVD)
+  - Banco PostgreSQL com TypeORM
+  - Sistema de usuários, jogos, tags, avaliações e watchlist
+  - Integração com Gmail API para recuperação de senha
+  - Sistema de tradução multi-idioma
+- **Tinsports:** Aplicativo mobile para gerenciamento de eventos esportivos
+  - App React Native (0.73.3) com navegação Stack + Drawer
+  - Backend Node.js/Express com API RESTful completa
+  - Sistema de convites e confirmações de presença
+  - Sistema de reputação de usuários (0-100)
+  - Pagamento via Google Pay
+  - Sistema de recorrência de eventos (premium)
+  - Build de APK e iOS produção
 
 ---
 
