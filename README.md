@@ -200,7 +200,7 @@ Startup founded from scratch with full-cycle application development.
 
 **Jean Carlos Gomes**  
 Full Stack Developer | Remote  
-📧 jeancarlosgomes@tutanota.com  
+📧 jean@twogetherapp.cloud  
 🔗 [LinkedIn](https://www.linkedin.com/in/jean-c-gomes-design)  
 🔗 [GitHub](https://github.com/JeanCDev)  
 📍 Brazil
